@@ -18,21 +18,19 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: sqlTechHead # the main title
+title: Grilling & Brewing # the main title
 
-tagline: data debunked # it will display as the sub-title
+tagline: Make everything at home  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  sqlTechHead a blog for data professionals and coders.
+  A site for everything Grilling and Brewing and more!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://sqltechhead.github.io"
+url: "grillingandbrewing.co.uk"
 
 github:
   username: sqltechhead # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -53,7 +51,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-3NB2PLRD1Y
+  id: G-C39P5BKEB4
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
