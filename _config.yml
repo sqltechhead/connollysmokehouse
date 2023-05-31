@@ -75,10 +75,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://raw.githubusercontent.com/sqltechhead/sqltechhead.github.io/master"
+img_cdn: "https://raw.githubusercontent.com/sqltechhead/grillingandbrewing.github.io/master"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/sqlTechHead-logo.png"
+avatar: "/assets/images/Grilling & Brewing-logos.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
