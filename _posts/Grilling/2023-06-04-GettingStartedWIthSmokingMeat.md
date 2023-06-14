@@ -38,7 +38,7 @@ Before you start grab a good handful of your choice of wood chips/chunks and soa
 2. Place an eco firelighter on one side of the grate in the bbq
 3. Place your chimney starter on top
 
-![Setup](/assets/images/Setup.png){: .dark .w-75 .normal }
+![Setup](/assets/images/Setup.jpg){: .dark .w-75 .normal }
 
 4. Usually it will be 15 minutes until the coals are read, but what you want is the top coals to be going grey, then its ready
 5. Pour your coal onto one side of your BBQ
@@ -49,4 +49,4 @@ Before you start grab a good handful of your choice of wood chips/chunks and soa
 10. Put a pan of water on grill on top of the coals
 11. Close the lid and close the air vent on the side of your coals, keeping the one on your meat side open which will work as a smoke outlet and creates a convection within the BBQ to actually smoke your meat
 
-![Ribs](/assets/images/Ribs.png){: .dark .w-75 .normal }
+![Ribs](/assets/images/Ribs.jpg){: .dark .w-75 .normal }
