@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A site for everything Grilling and Brewing and more!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "grillingandbrewing.co.uk"
+url: "sqltechhead.github.io/grillingandbrewing.github.io"
 
 github:
   username: sqltechhead # change to your github username
