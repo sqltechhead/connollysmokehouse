@@ -1,6 +1,6 @@
 ---
-title: Getting started with smoking meat
-date: 2023-06-04 13:30:00 +0000
+title: Smoked Pork Ribs with BBQ Mop
+date: 2023-06-18 13:30:00 +0000
 layout: post
 categories: [Grilling, Smoking]
 ---
