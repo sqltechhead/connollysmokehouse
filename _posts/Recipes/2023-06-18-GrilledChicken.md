@@ -2,7 +2,7 @@
 title: Grilled Chicken with dry rub
 date: 2023-06-18 13:30:00 +0000
 layout: post
-categories: [Grilling, Smoking]
+categories: [Grilling, MeatRecipes]
 ---
 ## Ingredients
 ### Brine
