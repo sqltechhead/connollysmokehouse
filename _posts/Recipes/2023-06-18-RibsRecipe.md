@@ -43,5 +43,5 @@ categories: [Grilling, MeatRecipes]
 10. Repeat mopping every 20 minutes until you reach an hour
 11. Serve as a side or just go for half a rack of ribs with some potato salad and coleslaw 
 
-![Ribs3](/assets/images/Ribs3.jpg){: .dark .w-50 .left }
-![Ribs4](/assets/images/Ribs4.jpg){: .dark .w-50 .right }
+![Ribs3](/assets/images/Ribs3.jpg){: .dark .w-50 .normal }
+
