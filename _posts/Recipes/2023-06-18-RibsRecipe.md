@@ -29,7 +29,7 @@ categories: [Grilling, MeatRecipes]
 2. Get your BBQ/Smoker to 110C and get set up with your choice of wood and coal.
 3. Place the ribs in the smoker and smoke for 3 hours.
 
-![RibsStart](/assets/images/RibsStart.png){: .dark .w-75 .normal }
+![RibsStart](/assets/images/RibsStart.jpg){: .dark .w-75 .normal }
 
 4. Take the ribs out and put in foil
 5. Add 4 tbsp of Apple Juice in with the foil. This will help flavour and tenderize.
