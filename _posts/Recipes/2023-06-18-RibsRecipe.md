@@ -29,7 +29,7 @@ categories: [Grilling, MeatRecipes]
 2. Get your BBQ/Smoker to 110C and get set up with your choice of wood and coal.
 3. Place the ribs in the smoker and smoke for 3 hours.
 
-![RibsStart](/assets/images/RibsStart.jpg){: .dark .w-75 .normal }
+![RibsStart](/assets/images/RibsStart.jpg){: .dark .w-50 .normal }
 
 4. Take the ribs out and put in foil
 5. Add 4 tbsp of Apple Juice in with the foil. This will help flavour and tenderize.
@@ -37,11 +37,11 @@ categories: [Grilling, MeatRecipes]
 7. Put back in the smoker for 3 hours at 110C again.
 8. Take ribs out of foil and put back into the smoker, they should be getting really tender now.
 
-![Ribs1](/assets/images/Ribs1.jpg){: .dark .w-75 .normal }
+![Ribs1](/assets/images/Ribs1.jpg){: .dark .w-50 .normal }
 
 9. Mop with your mop sauce. 
 10. Repeat mopping every 20 minutes until you reach an hour
 11. Serve as a side or just go for half a rack of ribs with some potato salad and coleslaw 
 
-![Ribs3](/assets/images/Ribs3.jpg){: .dark .w-75 .left }
-![Ribs4](/assets/images/Ribs4.jpg){: .dark .w-75 .right }
+![Ribs3](/assets/images/Ribs3.jpg){: .dark .w-50 .left }
+![Ribs4](/assets/images/Ribs4.jpg){: .dark .w-50 .right }
