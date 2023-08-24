@@ -37,11 +37,11 @@ categories: [Grilling, MeatRecipes]
 7. Put back in the smoker for 3 hours at 110C again.
 8. Take ribs out of foil and put back into the smoker, they should be getting really tender now.
 
-![RibsStart](/assets/images/Ribs1.jpg){: .dark .w-75 .normal }
+![RibsStart](/assets/images/Ribs1.png){: .dark .w-75 .normal }
 
 9. Mop with your mop sauce. 
 10. Repeat mopping every 20 minutes until you reach an hour
 11. Serve as a side or just go for half a rack of ribs with some potato salad and coleslaw 
 
-![RibsStart](/assets/images/Ribs3.jpg){: .dark .w-75 .left }
-![RibsStart](/assets/images/Ribs4.jpg){: .dark .w-75 .right }
+![RibsStart](/assets/images/Ribs3.png){: .dark .w-75 .left }
+![RibsStart](/assets/images/Ribs4.png){: .dark .w-75 .right }
