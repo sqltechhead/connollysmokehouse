@@ -17,9 +17,10 @@ categories: [Grilling, MeatRecipes]
 ### Mop and wrap sauce
 - [ ] 500ml Beef stock
 
-### Meat
+### Method
 - [ ] 1 large Beef Rib
-![BeefShortRib](/assets/images/BeefShortRibs.jpg){: .dark .w-50 .normal }
+
+![BeefShortRib](/assets/images/BeefShortRibs.jpg){: .dark .w-50 .small }
 
 ## Meat
 1. Rub the dry rub into the ribs generously on both sides. Leave for the flavour to bed in for an hour minimum or overnight.
