@@ -3,6 +3,8 @@ title: Smoked Beef Short Ribs
 date: 2023-09-06 13:30:00 +0000
 layout: post
 categories: [Grilling, MeatRecipes]
+image:
+  path: /assets/images/BeefShortRibs.jpg
 ---
 ## Ingredients
 ### Dry Rub
@@ -17,12 +19,10 @@ categories: [Grilling, MeatRecipes]
 ### Mop and wrap sauce
 - [ ] 500ml Beef stock
 
-### Method
+### Meat
 - [ ] 1 large Beef Rib
 
-![BeefShortRib](/assets/images/BeefShortRibs.jpg){: .dark .w-50 .small }
-
-## Meat
+## Method
 1. Rub the dry rub into the ribs generously on both sides. Leave for the flavour to bed in for an hour minimum or overnight.
 2. Get your BBQ/Smoker to 110C and get set up with your choice of wood and coal.
 3. Place the ribs in the smoker and smoke for 3 hours.
