@@ -18,7 +18,7 @@ layout: page
   {% assign first_post = posts_of_category | first %}
 
   {% if category_name == first_post.categories[0] %}
-    {% if category_name == 'Grilling' %}
+    {% if category_name == 'Baking' %}
       {% assign sub_categories = '' | split: '' %}
 
       {% for post in posts_of_category %}

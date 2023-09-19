@@ -1,5 +1,5 @@
 ---
 layout: GrillingCategories
-icon: fas fa-stream
+icon: fas fa-drumstick-bite
 order: 1
 ---
