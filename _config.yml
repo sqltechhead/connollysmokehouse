@@ -20,10 +20,10 @@ timezone: Europe/London
 
 title: Grilling & Brewing # the main title
 
-tagline: Make everything at home  # it will display as the sub-title
+tagline: Fire, Food and Beer!  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A site for everything Grilling and Brewing and more!
+  Fire, Food and Beer! Recipes for everyone.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "sqltechhead.github.io/grillingandbrewing.github.io"
