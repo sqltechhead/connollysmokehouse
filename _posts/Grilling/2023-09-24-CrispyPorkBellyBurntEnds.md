@@ -1,4 +1,4 @@
----
+[---
 title: Crispy Pork Belly Burnt Ends
 date: 2023-09-24 13:30:00 +0000
 layout: post
@@ -12,10 +12,10 @@ image:
 - [ ] 1kg Pork Belly
 
 ### Dry Rub
-- [ ] 
+- [ ] [Pork Belly Dry Rub](https://grillingandbrewing.co.uk/posts/PorkBellyDryRub/)
 
 ### BBQ Sauce
-- [ ] 
+- [ ] [BBQ Sauce](https://grillingandbrewing.co.uk/posts/BBQSauce/)
 
 ### Extras
 - [ ] 1 tbsp red wine vinegar
@@ -34,4 +34,4 @@ image:
 10. Cook for a further 15 minutes.
 11. Take off the smoker and leave to rest for 30 minutes
 
- 
+ ]
