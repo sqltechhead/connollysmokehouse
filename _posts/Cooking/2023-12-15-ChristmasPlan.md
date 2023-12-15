@@ -12,13 +12,13 @@ Another tip is to make sure you have your timings documented and printed so you 
 
 ## Food List
 ### Savoury
-- [ ] Turkey
-- [ ] Sausage Meat Stuffing
-- [ ] Pigs in blankets
-- [ ] Vegetables
-- [ ] Bacon Sprouts
-- [ ] Yorkshire Puddings
-- [ ] Honey glazed carrot and parsnips
+- [ ] [Turkey](https://grillingandbrewing.co.uk/posts/Turkey/)
+- [ ] [Sausage Meat Stuffing](https://grillingandbrewing.co.uk/posts/SausageMeatStuffing/)
+- [ ] [Pigs in blankets](https://grillingandbrewing.co.uk/posts/PigsInBlankets/)
+- [ ] [Vegetables](https://grillingandbrewing.co.uk/posts/Vegetables/)
+- [ ] [Bacon Sprouts](https://grillingandbrewing.co.uk/posts/BaconSprouts/)
+- [ ] [Yorkshire Puddings](https://grillingandbrewing.co.uk/posts/YorkshirePuddings/)
+- [ ] [Honey glazed carrot and parsnips](https://grillingandbrewing.co.uk/posts/HoneyGlazedCarrotAndParsnips/)
 - [ ] Bread Sauce
 
 ### Sweet
@@ -44,7 +44,7 @@ Probably the most important part. Get this done on Christmas Eve, and you can ju
 
 
 ## The Big Day
-With all your food prepped, a beer in hand and a christmas jumper on, just tick off everything below.
+With all your food prepped, a beer in hand and a christmas jumper on, just tick off everything below. My timings are based off a 17lb turkey and eating for 2pm
 
 > I'd advise using something like Amazon Alexa to preset multiple named timers
 {: .prompt-tip }

@@ -6,7 +6,7 @@ categories: [Baking, ChristmasBaking]
 ---
 
 ## Ingredients
-- [ ] 1 large 500g jar mincemeat
+- [ ] [1 large 500g jar mincemeat](https://grillingandbrewing.co.uk/posts/MinceMeat/)
 - [ ] 375g plain flour
 - [ ] 260g unsalted butter, softened
 - [ ] 125g caster sugar, plus extra for sprinkling
