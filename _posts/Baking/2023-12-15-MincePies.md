@@ -2,7 +2,7 @@
 title: Mince Pies
 date: 2023-12-15 13:30:00 +0000
 layout: post
-categories: [Baking, Christmas]
+categories: [Baking, ChristmasBaking]
 ---
 
 ## Ingredients
@@ -14,7 +14,7 @@ categories: [Baking, Christmas]
 - [ ] Milk for glazing
 - [ ] 12 Mince Pie Foil Dishes
 
-## Ingredients
+## Method
 
 1. Place 375g plain flour and 260g softened unsalted butter in a bowl and rub together to a crumb consistency.
 2. Add 125g caster sugar and 1 large beaten egg, and mix together.
