@@ -2,7 +2,7 @@
 title: Mincemeat
 date: 2023-12-15 13:30:00 +0000
 layout: post
-categories: [Baking, Christmas]
+categories: [Baking, ChristmasBaking]
 ---
 
 ## Ingredients
