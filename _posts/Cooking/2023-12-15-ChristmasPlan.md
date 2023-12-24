@@ -54,15 +54,16 @@ With all your food prepped, a beer in hand and a christmas jumper on, just tick 
 
 | Time  | Activity                                            |
 |-------|-----------------------------------------------------|
-| 08:30 | Put Oven on                                         |
-| 08:10 | Eat Breakfast                                       |
+| 08:00 | Take Turkey out of fridge                           |
+| 09:00 | Put Oven on                                         |
 | 09:30 | Put Turkey in covered in foil                        |
 | 12:30 | Take off foil                                       |
+| 12:30 | Put Potato pans in with goose fat                   |
 | 13:00 | Take turkey out of oven and cover with foil and tea towels to rest |
 | 13:00 | Put Potatoes in                                     |
+| 13:00 | Put Yorkshire tins in to heat                                     |
 | 13:20 | Put Carrots and parsnips in                         |
-| 13:30 | Put stuffing and pigs and blankets in               |
-| 13:30 | Put veg on                                          |
+| 13:20 | Put stuffing and pigs and blankets in               |
 | 13:20 | Start Gravy                                         |
-| 13:15 | Heat Up breadsauce                                  |
+| 13:30 | Put veg on                                          |
 | 14:00 | Dish up ours                                        |
