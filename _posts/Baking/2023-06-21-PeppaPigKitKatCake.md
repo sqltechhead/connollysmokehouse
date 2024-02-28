@@ -3,6 +3,8 @@ title: Peppa Pig KitKat Cake
 date: 2023-06-21 13:30:00 +0000
 layout: post
 categories: [Baking, Cakes]
+image:
+  path: /assets/images/PeppaPigCake.jpg
 ---
 ## Ingredients
 ### Cake
@@ -21,7 +23,6 @@ categories: [Baking, Cakes]
 
 ### Decoration
 - [ ] 14 KitKats
-- [ ] 
 
 ## Method
 ### Cake

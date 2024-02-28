@@ -4,7 +4,7 @@ date: 2023-09-06 13:30:00 +0000
 layout: post
 categories: [Grilling, MeatRecipes]
 image:
-  path: /assets/images/BeefShortRibs.jpg
+  path: /assets/images/BeefRibsCooked.jpg
 ---
 ## Ingredients
 ### Dry Rub
