@@ -12,21 +12,10 @@ image:
 - [ ] 300g Pork Belly (No skin)
 
 ### Dry Rub
-- [ ] 1tsp Black Pepper
-- [ ] 1tsp Salt
-- [ ] 1tsp Smoked Paprika
-- [ ] 1tsp Garlic powder 
-- [ ] 1tsp Onion powder 
-- [ ] 100g Dark Brown Sugar 
+- [ ] [PorkRub]({% link _posts/Rubs/2023-09-24-PorkRub.md %})
 
 ### BBQ Sauce
-- [ ] 85g Honey
-- [ ] 110g Dark Brown Sugar
-- [ ] 235g Ketchup
-- [ ] 2tbsp Apple cider vinegar
-- [ ] 1tsp Salt
-- [ ] 1/2tsp Onion powder
-- [ ] 1/2tsp Garlic powder
+- [ ] [BBQSauce]({% link _posts/Sauces/2023-09-24-BBQSauce.md %})
 
 
 ### Foil Wrap

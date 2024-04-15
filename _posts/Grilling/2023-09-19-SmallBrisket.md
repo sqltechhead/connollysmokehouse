@@ -12,10 +12,7 @@ image:
 - [ ] Small flat brisket with a fat cap
 
 ### Dry Rub
-- [ ] 1tsp Black Pepper
-- [ ] 1tsp Salt
-- [ ] 1tsp Smoked Paprika
-- [ ] 1tsp Garlic powder 
+- [ ] [BrisketRub]({% link _posts/Rubs/2023-09-24-BrisketRub.md %})
 
 ### Foil Wrap
 - [ ] 2tbsp Butter
