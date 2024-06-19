@@ -15,7 +15,7 @@ image:
 - [ ] [BrisketRub]({% link _posts/Rubs/2023-09-24-BrisketRub.md %})
 
 ### BBQ Sauce
-- [ ] [DRPepperBBQSauce]({% link _posts/Rubs/2024-06-18-DRPepperBBQSauce.md %})
+- [ ] [DRPepperBBQSauce]({% link _posts/Sauces/2024-06-18-DRPepperBBQSauce.md %})
 
 ### Foil Wrap
 - [ ] 2tbsp Butter
