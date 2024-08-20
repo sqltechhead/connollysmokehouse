@@ -18,15 +18,15 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Grilling & Brewing # the main title
+title: Connolly Smokehouse # the main title
 
-tagline: Make everything at home  # it will display as the sub-title
+#tagline: Make everything at home  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A site for everything Grilling and Brewing and more!
+  A site for everything smoking, baking and brewing!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "sqltechhead.github.io/grillingandbrewing.github.io"
+url: "sqltechhead.github.io/connollysmokehouse.github.io"
 
 github:
   username: sqltechhead # change to your github username
@@ -36,13 +36,13 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Daniel Connolly
-  email: sqltechhead@gmail.com # change to your email address
+  #email: sqltechhead@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    #- https://twitter.com/username # change to your twitter homepage
+    #- https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/profile.php?id=61564213256860
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
@@ -75,10 +75,10 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://raw.githubusercontent.com/sqltechhead/grillingandbrewing.github.io/master"
+img_cdn: "https://raw.githubusercontent.com/sqltechhead/connollysmokehouse.github.io/master"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/Grilling & Brewing-logos.jpeg"
+avatar: "/assets/images/ConnollySmokehouseNoBackground.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

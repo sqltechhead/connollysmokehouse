@@ -3,6 +3,8 @@ title: Quiche Lorraine
 date: 2024-08-15 13:30:00 +0000
 layout: post
 categories: [Cooking]
+image:
+  path: /assets/images/Quiche.jpg
 ---
 ## Ingredients
 ### Pastry
@@ -27,7 +29,7 @@ categories: [Cooking]
 1. Preheat the oven to 180 Celcius 
 2. To make the pastry combine all pastry ingredients into a food processor and blitz together.
 3. Once the pastry is combined, add onto the worktop with a bit of flour and roll out so it will fit into a 24cm flan tin.
-4. Line the bottom of your flan tin and fit the pastry into it. 
+4. Line the bottom of your flan tin with baking paper and fit the pastry into it. 
 5. Leave a little above the top of the tin to allow for shrinkage.
 6. Prick the the base, then leave in the fridge for 30 minutes.   
 7. Put baking paper over the flan and fill with baking beans. Then cook for 15 minutes.
