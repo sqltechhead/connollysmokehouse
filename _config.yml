@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A site for everything smoking, baking and brewing!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "sqltechhead.github.io/connollysmokehouse.github.io"
+url: "sqltechhead.github.io/connollysmokehouse"
 
 github:
   username: sqltechhead # change to your github username
@@ -75,7 +75,7 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://raw.githubusercontent.com/sqltechhead/connollysmokehouse.github.io/master"
+img_cdn: "https://raw.githubusercontent.com/sqltechhead/connollysmokehouse/master"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/images/ConnollySmokehouseNoBackground.png"
