@@ -1,26 +1,19 @@
 #  The contact options.
 
-#- type: github
-#  icon: "fab fa-github"
-#
-#- type: twitter
-#  icon: "fab fa-twitter"
+- type: github
+  icon: 'fab fa-github'
 
-- type: instagram
-  icon: 'fab fa-instagram'
-  url: https://www.instagram.com/connollysmokehouse/
+- type: twitter
+  icon: 'fab fa-twitter'
 
-- type: facebook
-  icon: 'fab fa-facebook'
-  url: https://www.facebook.com/profile.php?id=61564213256860
+- type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
 
-#- type: email
-#  icon: "fas fa-envelope"
-#  noblank: true # open link in current tab
+- type: rss
+  icon: 'fas fa-rss'
+  noblank: true
 
-#- type: rss
-#  icon: "fas fa-rss"
-#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
