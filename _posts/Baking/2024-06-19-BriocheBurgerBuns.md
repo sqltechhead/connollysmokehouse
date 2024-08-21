@@ -3,6 +3,8 @@ title: Brioche Burger Buns
 date: 2024-06-19 13:30:00 +0000
 layout: post
 categories: [Baking, Breads]
+image:
+  path: /assets/images/BriocheBuns.jpg
 ---
 ## Ingredients
 - [ ] 600g strong white bread flour,
