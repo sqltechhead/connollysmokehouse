@@ -58,8 +58,8 @@ google_analytics:
     cache_path: # the local PV cache data, friendly to visitors from GFW region
 
 google_adsense:
-  client_id: ca-pub-1160964920063871         # adsense client id, ex: ca-pub-0000000000000000
-  slot_id: 9418203019           # adsense slot id, ex: 0000000000
+  client_id: ca-pub-1160964920063871
+  slot_id: 9418203019           
   enabled: true
 
 # Prefer color scheme setting.
