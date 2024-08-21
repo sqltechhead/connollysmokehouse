@@ -4,7 +4,7 @@ date: 2024-08-16 13:30:00 +0000
 layout: post
 categories: [Baking, TrayBakes]
 image:
-  path: /assets/images/Brownies.jpg
+  path: /assets/images/KinderCookieSlice.jpg
 ---
 ## Ingredients
 - [ ] 115g unsalted butter
