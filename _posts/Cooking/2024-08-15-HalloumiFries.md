@@ -2,7 +2,7 @@
 title: Halloumi Fries
 date: 2024-08-15 13:30:00 +0000
 layout: post
-categories: [Cooking]
+categories: [Cooking, Sides]
 ---
 ## Ingredients
 - [ ] 100g Plain Flour

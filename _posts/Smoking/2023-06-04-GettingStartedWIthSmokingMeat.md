@@ -2,7 +2,7 @@
 title: Getting started with smoking meat
 date: 2023-06-04 13:30:00 +0000
 layout: post
-categories: [Grilling, Smoking]
+categories: [Smoking, Getting Started]
 ---
 ## Introduction
 Smoking is the process of adding flavour to meat by burning various different types of wood. Its an ancient technique and one that is growing in popularity at the moment. 

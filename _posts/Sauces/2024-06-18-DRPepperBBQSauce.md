@@ -2,7 +2,7 @@
 title: DR Pepper BBQ Sauce 
 date: 2024-06-18 13:30:00 +0000
 layout: post
-categories: [Grilling, Sauces]
+categories: [Smoking, Sauces]
 image:
   path: /assets/images/UnderMaintenance.jpg
 ---

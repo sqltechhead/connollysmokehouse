@@ -16,4 +16,4 @@ Recipes on this site will centre around a few main areas:
 
 ## The smokehouse
 ![Desktop View](/assets/images/Smokehouse.jpg){: width="972" height="589" .w-50 .left}
-In 2024 i decided to build a outdoor cooking area in the garden. This was enable me to brew beer without stinking the house out and BBQ in all weathers. It took a lot of effort and lot of mess ups to get it where it is today and so far, has served me very well! 
+In 2024 i decided to build an outdoor cooking area in the garden. This was enable me to brew beer without stinking the house out and BBQ in all weathers. It took a lot of effort and lot of mess ups to get it where it is today and so far, has served me very well! 

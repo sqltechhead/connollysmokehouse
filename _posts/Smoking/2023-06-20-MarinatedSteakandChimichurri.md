@@ -2,7 +2,7 @@
 title: Marinated Steak and Chimichurri
 date: 2023-06-20 13:30:00 +0000
 layout: post
-categories: [Grilling, MeatRecipes]
+categories: [Smoking, Beef]
 ---
 ## Ingredients
 ### Steak Marinade

@@ -2,7 +2,7 @@
 title: Smoked Beef Short Ribs
 date: 2023-09-06 13:30:00 +0000
 layout: post
-categories: [Grilling, MeatRecipes]
+categories: [Smoking, Beef]
 image:
   path: /assets/images/BeefRibsCooked.jpg
 ---
