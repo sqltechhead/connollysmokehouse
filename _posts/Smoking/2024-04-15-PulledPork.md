@@ -2,7 +2,7 @@
 title: Pulled Pork
 date: 2024-04-15 00:00:00 +0000
 layout: post
-categories: [Grilling, MeatRecipes]
+categories: [Smoking, Pork]
 image:
   path: /assets/images/PulledPork.jpg
 ---

@@ -2,7 +2,7 @@
 title: Pork Belly Burnt Ends
 date: 2023-10-16 13:30:00 +0000
 layout: post
-categories: [Grilling, MeatRecipes]
+categories: [Smoking, Pork]
 image:
   path: /assets/images/UnderMaintenance.jpg
 ---

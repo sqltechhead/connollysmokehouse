@@ -1,21 +1,18 @@
 ---
-title: Brisket 
-date: 2024-06-18 13:30:00 +0000
+title: Smoked Small Flat Brisket
+date: 2023-09-19 13:30:00 +0000
 layout: post
-categories: [Grilling, MeatRecipes]
+categories: [Smoking, Beef]
 image:
   path: /assets/images/UnderMaintenance.jpg
 ---
 
 ## Ingredients
 ### Meat
-- [ ] 2kg Brisket Point
+- [ ] Small flat brisket with a fat cap
 
 ### Dry Rub
 - [ ] [BrisketRub]({% link _posts/Rubs/2023-09-24-BrisketRub.md %})
-
-### BBQ Sauce
-- [ ] [DRPepperBBQSauce]({% link _posts/Sauces/2024-06-18-DRPepperBBQSauce.md %})
 
 ### Foil Wrap
 - [ ] 2tbsp Butter

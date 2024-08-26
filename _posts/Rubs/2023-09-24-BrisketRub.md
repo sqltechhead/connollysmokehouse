@@ -2,7 +2,7 @@
 title: Brisket RUb
 date: 2023-09-24 13:30:00 +0000
 layout: post
-categories: [Grilling, Rubs]
+categories: [Smoking, Rubs]
 image:
   path: /assets/images/UnderMaintenance.jpg
 ---

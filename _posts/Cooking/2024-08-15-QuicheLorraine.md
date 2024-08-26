@@ -2,7 +2,7 @@
 title: Quiche Lorraine
 date: 2024-08-15 13:30:00 +0000
 layout: post
-categories: [Cooking]
+categories: [Cooking, Sides]
 image:
   path: /assets/images/Quiche.jpg
 ---
