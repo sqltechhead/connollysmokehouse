@@ -83,7 +83,7 @@ theme_mode: dark
 img_cdn: "https://raw.githubusercontent.com/sqltechhead/connollysmokehouse/master"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/images/WebsiteIcon.jpg"
+avatar: "/assets/images/ConnollySmokehouse.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
