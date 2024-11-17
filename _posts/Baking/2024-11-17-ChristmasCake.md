@@ -1,6 +1,6 @@
 ---
 title: Christmas Cake
-date: 2024-11-217 13:30:00 +0000
+date: 2024-11-17 13:30:00 +0000
 layout: post
 categories: [Baking, Cakes]
 image:
